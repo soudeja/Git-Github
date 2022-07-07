@@ -29,6 +29,10 @@ As vagas abertas ligadas à Tecnologia cresceram mais de 300% só em 2020.Para a
 Ainda que o crescimento do setor tenha ocorrido de forma acelerada nos últimos anos, os profissionais qualificados não se formaram da noite pro dia. Um levantamento da Brassom (Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação) identificou que a procura por profissionais na área de TI será de 420 mil pessoas, até 2024, no Brasil.
  
  
+ ***
+ <div align="left">
+  
+ Fontes: <https://grasshopper.app/pt_br/what-is-coding/>; <https://fluxoconsultoria.poli.ufrj.br/blog/entenda-o-porque-do-crescimento-significativo-do-setor-t-i-a-da-analise-de-dados/>
  
 
 
